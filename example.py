@@ -4,3 +4,6 @@ b='A string'
 c=np.arange(1,100,1)
  
 #A new comment.
+
+for i in np.arange(1,100,1):
+	print(i)
