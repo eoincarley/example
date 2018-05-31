@@ -9,3 +9,5 @@ for i in np.arange(1,100,1):
 	print(i)
  
 #Very nice loop.
+ 
+d=[1,2,3] 
